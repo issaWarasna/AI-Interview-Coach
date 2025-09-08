@@ -16,7 +16,7 @@
 
 ## Screenshots
 
-*(Optional: Add screenshots here to showcase the interface.)*
+<img width="930" height="892" alt="Screenshot 2025-09-09 025447" src="https://github.com/user-attachments/assets/1fc54c5e-b5ca-470e-9b69-0e52536643ea" />
 
 ---
 
