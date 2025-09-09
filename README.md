@@ -80,6 +80,7 @@ Contributions are welcome! If you want to add new features, improve the AI conve
 **Issa Warasna**
 
 * GitHub: [https://github.com/issaWarasna](https://github.com/issaWarasna)
+* Linkedin: [https://www.linkedin.com/in/issa-warasna-6205b9238/]
 * Email: [ewarasnah@gmail.com](mailto:your-email@example.com)
 
 
